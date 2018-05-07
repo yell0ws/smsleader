@@ -16,10 +16,10 @@
 ![dashboard](https://raw.githubusercontent.com/yell0ws/smsleader/master/shots/dashboard.png)
 
 ### Lista widgetów
-![widget list](https://raw.githubusercontent.com/yell0ws/smsleader/master/shots/login.png)
+![widget list](https://raw.githubusercontent.com/yell0ws/smsleader/master/shots/widgets.png)
 
 ### Ranking użytkowników
-![users rank](https://raw.githubusercontent.com/yell0ws/smsleader/master/shots/widgets.png)
+![users rank](https://raw.githubusercontent.com/yell0ws/smsleader/master/shots/user-rank.png)
 
 ### Wypłaty środków
 ![payouts](https://raw.githubusercontent.com/yell0ws/smsleader/master/shots/payout.png)
