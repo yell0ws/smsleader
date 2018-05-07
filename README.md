@@ -1,3 +1,4 @@
+![logo](https://raw.githubusercontent.com/yell0ws/smsleader/master/shots/logo.png)
 # Prezentacja platformy - SMSLeader
 
 > Projekt platformy do obsługi transakcji SMS MO/MT.
