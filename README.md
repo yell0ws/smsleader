@@ -4,7 +4,7 @@
 > Projekt platformy do obsługi transakcji SMS MO/MT.
 
 > Backend aplikacji został stworzony w języku PHP przy pomocy framework'a Laravel.
-> Frontend został wykonany w Javascript + Vue jako framework.
+> Frontend został wykonany w Javascript + Vue.
 
 ### Autentykacja - Logowanie
 ![login](https://raw.githubusercontent.com/yell0ws/smsleader/master/shots/login.png)
